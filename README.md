@@ -9,3 +9,4 @@ pip install vk_api
 ```
 pip install mcstatus
 ```
+or install through IDE python interpreter
