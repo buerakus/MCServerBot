@@ -3,9 +3,8 @@ from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 from mcstatus import JavaServer
 
 
-TOKEN = 'vk1.a.7Z4STnkQCQQ9lMlgvBHG5p5_smhdTDXFsm_mnHNt7gSyc17yxbzTH4Efg2tPXVa9j0LAOsLUKjJdGgOrzMQUCiELCyT-DCSv0LomUu' \
-	'CPMs0D4hnEstuH-jBo31U47_eQpVgy5_mQJV8f8s9Mb_alm4dJcY24AfgSDS8XpnXQwQsUspHoubxzR6tQzlvMNP-kp2E80TfpTKEJFNF-2RAiFw'
-GROUP_ID = '185178283'
+TOKEN = 'access_token'
+GROUP_ID = 'group_od'
 def main():
 	server = JavaServer.lookup("m3.joinserver.ru:25842")
 	vk_session = vk_api.VkApi(token=TOKEN)
