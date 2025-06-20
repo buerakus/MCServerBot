@@ -1,4 +1,4 @@
-## eblevichi vk bot
+## vk bot
 This simple programm allows users to access infromation about my MC server on VK (social media) website.
 need installation of mcstatus and vk_api
 
